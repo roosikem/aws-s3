@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    aws:
+      region:
+        static:
+      credentials:
+        secret-key:
+        access-key:
+      s3:
+        bucket:
